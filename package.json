@@ -1,0 +1,27 @@
+{
+    "author": "Johannes",
+    "dependencies": {},
+    "keywords": [],
+    "name": "temperature",
+    "pebble": {
+        "displayName": "Temperature",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "20d039db-9019-434e-89f6-711205ff1c36",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
